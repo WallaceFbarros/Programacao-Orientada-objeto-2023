@@ -1,0 +1,12 @@
+poo\model\Filme.class
+poo\dao\SerieDAO.class
+poo\dao\StreamingDAO.class
+poo\model\Musica.class
+poo\Main.class
+poo\dao\FilmeDAO$SessionOperation.class
+poo\dao\JogoDAO.class
+poo\dao\FilmeDAO.class
+poo\model\Streaming.class
+poo\dao\MusicaDAO.class
+poo\model\Serie.class
+poo\model\Jogo.class
